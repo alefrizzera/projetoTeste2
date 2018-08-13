@@ -1,2 +1,3 @@
 # projetoTeste2
-Projeto teste 2
+
+Projeto teste para execução de comandos git
